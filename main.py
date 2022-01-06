@@ -24,6 +24,8 @@ def pozitivs(a):
   else:
     x="-"
   return x
+
+
 print(decimal(a))
 print(kvadrats(a))
 print(sakne(a))
